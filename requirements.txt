@@ -14,3 +14,8 @@ aiohttp
 cfonts
 flask-socketio
 eventlet
+flask
+flask-socketio
+gunicorn
+eventlet
+requests
